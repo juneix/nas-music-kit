@@ -2,7 +2,7 @@
 
 本项目基于[GD 音乐台](https://music.gdstudio.org)提供的 API，我打包成了 Docker 容器，方便搜索歌曲，一键入库 NAS。  
 
-如果有帮助到你，请顺手点个 🌟Star 支持一下！
+如果有帮助到你，请顺手点个 🌟Star 支持一下，或者直接[🧧打赏鼓励](https://5nav.eu.org/donate.jpg)，感谢！
 
 <img width="1780" height="1015" alt="demo" src="https://github.com/user-attachments/assets/43763cea-2129-4885-ac07-a1e8d5a0db3c" />
 
