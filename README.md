@@ -21,12 +21,12 @@
 - 如果依然无法使用，请前往原作者站点查看原因
 
 ## 🧩 快速部署
-Docker Compose 配置文件
+Docker Compose 配置文件，一键抄作业 
 ⚡️ 已配置毫秒镜像加速，中国大陆地区专用
 ```
 services:
   nas-music-kit:
-    image: 1ms.run/ghcr.io/juneix/nas-music-kit
+    image: docker.1ms.run/ghcr.io/juneix/nas-music-kit
     container_name: nas-music-kit
     network_mode: host
     restart: unless-stopped
