@@ -1,9 +1,10 @@
 # NAS 音乐助手
 
-本项目基于[GD 音乐台](https://music.gdstudio.org)提供的 API，我打包成了 Docker 容器，方便搜索歌曲，一键入库 NAS。
+本项目基于[GD 音乐台](https://music.gdstudio.org)提供的 API，我打包成了 Docker 容器，方便搜索歌曲，一键入库 NAS。  
+
+如果有帮助到你，请顺手点个 🌟Star 支持一下！
 
 <img width="1780" height="1015" alt="demo" src="https://github.com/user-attachments/assets/43763cea-2129-4885-ac07-a1e8d5a0db3c" />
-
 
 ## 🎵 NAS 音乐方案
 顺便分享下我的自用方案，几乎`全平台`制霸了，但我不是发烧友，音乐爱好者可参考吧。此方案涉及的所有工具基础功能`完全免费`，目前可实现一键入库，自动匹配音乐元数据。
