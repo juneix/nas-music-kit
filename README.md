@@ -23,7 +23,7 @@
 
 ## 🧩 快速部署
 Docker Compose 配置文件，各种 NAS 系统可一键抄作业，同时支持 `x86-64` 和 `arm64` 架构，自动识别。  
-> ⚡️ 已配置毫秒镜像加速，中国大陆地区专用
+
 ```yaml
 services:
   nas-music-kit:
