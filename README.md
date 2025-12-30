@@ -27,7 +27,7 @@ Docker Compose 配置文件，各种 NAS 系统可一键抄作业，同时支持
 ```
 services:
   nas-music-kit:
-    image: docker.1ms.run/ghcr.io/juneix/nas-music-kit
+    image: docker.1ms.run/ghcr.io/juneix/nas-music-kit #原版镜像请换成 ghcr.io/juneix/nas-music-kit
     container_name: nas-music-kit
     network_mode: host
     restart: unless-stopped
